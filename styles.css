@@ -103,7 +103,7 @@ h2 {
     color: #fff;
     font-size: 18px;
     font-weight: bold;
-    padding: 8px 24px;
+    padding: 8px 32px;
     border-radius: 6px;
     border: none;
 }
@@ -164,7 +164,7 @@ h2 {
 
 .banner {
     border-radius: 16px;
-    padding: 40px 80px;
+    padding: 50px 90px;
     display: flex;
     justify-content: space-between;
     align-items: center;
